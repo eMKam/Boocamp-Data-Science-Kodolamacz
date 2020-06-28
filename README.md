@@ -1,4 +1,4 @@
-# "Pants of fire" Indicating system
+# "Pants of fire" indicating system
 
 Author: Marcin Kamyk
 
