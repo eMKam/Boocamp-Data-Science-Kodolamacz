@@ -23,4 +23,4 @@ Models use: vectorization TF-IDF, logistic regression classifier, naive Bayes cl
 
 ## Final results:
 
-Model has delivered accuracy that falls into a  60 - 90% range, at the same time the lowf1-score and ROC curve plots for the wanted class („Pants of fire”) showed that when finally tested, models achieved less than satisfactory predictions. 
+Model has delivered accuracy that falls into a  60 - 90% range, at the same time the low f1-score and ROC curve plots for the wanted class („Pants of fire”) showed that when finally tested, models achieved less than satisfactory predictions. 
